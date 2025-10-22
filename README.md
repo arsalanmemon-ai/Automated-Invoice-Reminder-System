@@ -1,6 +1,8 @@
 # Automated-Invoice-Reminder-System
 This workflow automatically sends invoice reminder emails based on the status of each invoice stored in Google Sheets. It helps companies follow up on pending payments without manual effort.
+
 ✅ Workflow Logic
+
 Step	Node	Description
 1	Manual Trigger	Starts the workflow (can be replaced with Cron for automation).
 2	Google Sheets – Read Rows	Fetches all invoice data from the sheet.
