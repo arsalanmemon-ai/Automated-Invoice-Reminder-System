@@ -13,7 +13,7 @@ This workflow automatically sends invoice reminder emails based on the status of
 
 5	Gmail – Send Email	Sends reminders to customers or notifications to company.
 
-📨 **Email Rules**
+# Email Rules
 
 Invoice Status	Action	Recipient
 
@@ -23,6 +23,6 @@ Overdue	Send Final Notice	Customer
 
 Finished	Send Info Email (or skip)	Company
 
-✅ **Result**
+# Result
 
 This workflow makes your invoice follow-up fully automated, saves time, and increases payment recovery efficiency.
